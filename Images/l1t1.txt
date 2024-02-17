@@ -1,0 +1,16 @@
+Creating a personal portfolio using CSS and HTML is a popular beginner web development project.
+
+
+1. Header Section: Add your name or a logo at the top. Optionally, include a brief introduction or tagline.
+
+2. About Section: Insert an image of yourself. Write a short bio highlighting your skills and experience.
+
+3. Skills Section: List your key skills or areas of expertise.
+
+4. Projects Section: Showcase samples of your work or projects. Include project titles, descriptions, and images.
+
+5. Resume Section: Provide a link to download your resume in PDF format.
+
+6. Contact Section: Include your contact information, such as email address and phone number.
+
+7. Footer: Add a copyright notice and any additional links or information.
