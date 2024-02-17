@@ -42,7 +42,7 @@ git clone https://github.com/beingnehallish/PRODIGY_WD_04.git
 cd your-portfolio
 ```
 
-2. Open `index.html` in your web browser to view the website locally.
+2. Open `Index.html` in your web browser to view the website locally.
 
 ## Usage
 
